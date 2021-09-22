@@ -1,0 +1,15 @@
+import 'package:flutter/material.dart';
+
+class UserAddressesPage extends StatefulWidget {
+  const UserAddressesPage({Key? key}) : super(key: key);
+
+  @override
+  _UserAddressesPageState createState() => _UserAddressesPageState();
+}
+
+class _UserAddressesPageState extends State<UserAddressesPage> {
+  @override
+  Widget build(BuildContext context) {
+    return Container();
+  }
+}
