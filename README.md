@@ -1,4 +1,4 @@
-# untitled
+# Foodie
 
 A new Flutter project.
 
